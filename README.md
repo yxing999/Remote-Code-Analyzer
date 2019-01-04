@@ -6,3 +6,15 @@ Code analysis consists of extracting lexical content from source code files, ana
 
 ### Operation Instruction:
 ================================================================
+1. Double click "Complie.bat" file.
+2. Double click "run.bat" file.
+3. After step 1&2, you will get 4 windows: 
+	Autotest console: display all test of all functions automatically.
+	GUI console:display information about GUI.
+	server console:display information about server.
+	GUI:user interface provided to uesrs.
+4. Click "Local" button on GUI: display file list on local storage
+5. Click "Remote" button: display file list on remote storage.
+6. Click "Connect" button: connect remote and local.
+8. Double Click file name: display file's content in a new window.
+9. Click "Analyze" :display source code analysis result.
